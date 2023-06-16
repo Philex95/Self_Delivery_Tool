@@ -1,0 +1,20 @@
+exception:[Errno 13] Permission denied: 'D:/pythonProject/proj_3/审货表与PDF/01D-30-12-22.xlsx'
+                
+traceBackFormat:Traceback (most recent call last):
+  File "D:/pythonProject/proj_3/main.py", line 140, in OutPutDataClick
+    tarCSV.to_excel(savePath + runName + '.xlsx')
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38\lib\site-packages\pandas\core\generic.py", line 2189, in to_excel
+    formatter.write(
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38\lib\site-packages\pandas\io\formats\excel.py", line 815, in write
+    writer = ExcelWriter(  # type: ignore[abstract]
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38\lib\site-packages\pandas\io\excel\_openpyxl.py", line 32, in __init__
+    super().__init__(
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38\lib\site-packages\pandas\io\excel\_base.py", line 810, in __init__
+    self.handles = get_handle(
+  File "C:\Users\Administrator\AppData\Local\Programs\Python\Python38\lib\site-packages\pandas\io\common.py", line 651, in get_handle
+    handle = open(handle, ioargs.mode)
+PermissionError: [Errno 13] Permission denied: 'D:/pythonProject/proj_3/审货表与PDF/01D-30-12-22.xlsx'
+
+                
+date:2023-01-05, 09:26:10
+                

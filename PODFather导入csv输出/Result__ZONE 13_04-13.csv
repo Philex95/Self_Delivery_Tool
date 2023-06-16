@@ -1,0 +1,105 @@
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Line Type,Job Type,PO Number,Job Ref,Run Name,Run Date,Drop Sequence,Start Date,End Date,Delivery Instructions,Customer Account Number,Customer Name,Customer Address1,Customer Address2,Customer Address3,Customer City,Customer Region,Customer Postcode,Customer Country,Customer Tel. No.,Customer Email,Site Name,Site Address1,Site Address2,Site Address3,Site City,Site Region,Site Postcode,Site Country,Site Latitude,Site Longitude,Site Tel. No.,Site Email,Depot,Driver Login,Drop Time,Internal Job Notes,Customer Auto Email POD,Site Auto Email POD,Site Email Notification,Site SMS Notification,Job Price
+H,Delivery,ESO22041240180,M220443619922,,,,2022-04-13 5:00,2022-04-16 23:00,447798892423,,Neil Black ,43 jamieson street,,,Arbroath,ZONE 13,DD11 2AY,GB,447798892423,,Neil Black ,43 jamieson street,,,Arbroath,ZONE 13,DD11 2AY,GB,,,447798892423,m_CEGJFEJE3EDGBJJCC2GAHICJH11@message.manomano.com,Elegant showers,driver1,5,Call Customer before scheduling job,1,0,1,1,5
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Line Type,JobRef,Barcode,Merch Group,Product Code,Product Description,Quantity,Weight (KG),Price,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D,M220443619922,SL12,goods,SL12,Furniture,1,33,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D,M220443619922,SP80,goods,SP80,Furniture,1,21.5,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Line Type,Job Type,PO Number,Job Ref,Run Name,Run Date,Drop Sequence,Start Date,End Date,Delivery Instructions,Customer Account Number,Customer Name,Customer Address1,Customer Address2,Customer Address3,Customer City,Customer Region,Customer Postcode,Customer Country,Customer Tel. No.,Customer Email,Site Name,Site Address1,Site Address2,Site Address3,Site City,Site Region,Site Postcode,Site Country,Site Latitude,Site Longitude,Site Tel. No.,Site Email,Depot,Driver Login,Drop Time,Internal Job Notes,Customer Auto Email POD,Site Auto Email POD,Site Email Notification,Site SMS Notification,Job Price
+H,Delivery,ESO22041240159,2000022049,,,,2022-04-13 5:00,2022-04-16 23:00,01786823454,,Gary Odonnell ,Mill lodge glen road,,,Dunblane,ZONE 13,FK15 0HR,GB,01786823454,,Gary Odonnell ,Mill lodge glen road,,,Dunblane,ZONE 13,FK15 0HR,GB,,,01786823454,gary.odonnell@yahoo.co.uk,Elegant showers,driver1,5,Call Customer before scheduling job,1,0,1,1,5
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Line Type,JobRef,Barcode,Merch Group,Product Code,Product Description,Quantity,Weight (KG),Price,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D,2000022049,FPR70,goods,FPR70,Furniture,1,20,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Line Type,Job Type,PO Number,Job Ref,Run Name,Run Date,Drop Sequence,Start Date,End Date,Delivery Instructions,Customer Account Number,Customer Name,Customer Address1,Customer Address2,Customer Address3,Customer City,Customer Region,Customer Postcode,Customer Country,Customer Tel. No.,Customer Email,Site Name,Site Address1,Site Address2,Site Address3,Site City,Site Region,Site Postcode,Site Country,Site Latitude,Site Longitude,Site Tel. No.,Site Email,Depot,Driver Login,Drop Time,Internal Job Notes,Customer Auto Email POD,Site Auto Email POD,Site Email Notification,Site SMS Notification,Job Price
+H,Delivery,ESO22041240021,213870,,,,2022-04-13 5:00,2022-04-16 23:00,01324826412,,James oraw ,18 jubilee road,dunipace ,,denny,ZONE 13,FK6 6NQ,GB,01324826412,,James oraw ,18 jubilee road,dunipace ,,denny,ZONE 13,FK6 6NQ,GB,,,01324826412,4f5d49f3b1267f5f2991@members.ebay.com,Elegant showers,driver1,5,Call Customer before scheduling job,1,0,1,1,5
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Line Type,JobRef,Barcode,Merch Group,Product Code,Product Description,Quantity,Weight (KG),Price,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D,213870,WR30M,goods,WR30M,Furniture,1,11,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D,213870,WR80,goods,WR80,Furniture,1,34,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Line Type,Job Type,PO Number,Job Ref,Run Name,Run Date,Drop Sequence,Start Date,End Date,Delivery Instructions,Customer Account Number,Customer Name,Customer Address1,Customer Address2,Customer Address3,Customer City,Customer Region,Customer Postcode,Customer Country,Customer Tel. No.,Customer Email,Site Name,Site Address1,Site Address2,Site Address3,Site City,Site Region,Site Postcode,Site Country,Site Latitude,Site Longitude,Site Tel. No.,Site Email,Depot,Driver Login,Drop Time,Internal Job Notes,Customer Auto Email POD,Site Auto Email POD,Site Email Notification,Site SMS Notification,Job Price
+H,Delivery,ESO22041240151,2000022039,,,,2022-04-13 5:00,2022-04-16 23:00,07587606665,,Darren Simpson ,2 2,111 Roystonhill,,Glasgow,ZONE 13,G21 2LE,GB,07587606665,,Darren Simpson ,2 2,111 Roystonhill,,Glasgow,ZONE 13,G21 2LE,GB,,,07587606665,smoothflowplumbing@outlook.com,Elegant showers,driver1,5,Call Customer before scheduling job,1,0,1,1,5
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Line Type,JobRef,Barcode,Merch Group,Product Code,Product Description,Quantity,Weight (KG),Price,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D,2000022039,WR90,goods,WR90,Furniture,1,37,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Line Type,Job Type,PO Number,Job Ref,Run Name,Run Date,Drop Sequence,Start Date,End Date,Delivery Instructions,Customer Account Number,Customer Name,Customer Address1,Customer Address2,Customer Address3,Customer City,Customer Region,Customer Postcode,Customer Country,Customer Tel. No.,Customer Email,Site Name,Site Address1,Site Address2,Site Address3,Site City,Site Region,Site Postcode,Site Country,Site Latitude,Site Longitude,Site Tel. No.,Site Email,Depot,Driver Login,Drop Time,Internal Job Notes,Customer Auto Email POD,Site Auto Email POD,Site Email Notification,Site SMS Notification,Job Price
+H,Delivery,ESO22041240165,2000022057,,,,2022-04-13 5:00,2022-04-16 23:00,07886773572,,surnjit bhogal ,02 7,lymburn street,,glasgow,ZONE 13,G3 8PD,GB,07886773572,,surnjit bhogal ,02 7,lymburn street,,glasgow,ZONE 13,G3 8PD,GB,,,07886773572,surnjit@hotmail.com,Elegant showers,driver1,5,Call Customer before scheduling job,1,0,1,1,5
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Line Type,JobRef,Barcode,Merch Group,Product Code,Product Description,Quantity,Weight (KG),Price,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D,2000022057,SLR16A,goods,SLR16A,Furniture,1,38,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D,2000022057,SLR16B,goods,SLR16B,Furniture,1,28,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D,2000022057,SRT1770,goods,SRT1770,Furniture,1,39.1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D,2000022057,W90,goods,W90,Furniture,1,0.41,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Line Type,Job Type,PO Number,Job Ref,Run Name,Run Date,Drop Sequence,Start Date,End Date,Delivery Instructions,Customer Account Number,Customer Name,Customer Address1,Customer Address2,Customer Address3,Customer City,Customer Region,Customer Postcode,Customer Country,Customer Tel. No.,Customer Email,Site Name,Site Address1,Site Address2,Site Address3,Site City,Site Region,Site Postcode,Site Country,Site Latitude,Site Longitude,Site Tel. No.,Site Email,Depot,Driver Login,Drop Time,Internal Job Notes,Customer Auto Email POD,Site Auto Email POD,Site Email Notification,Site SMS Notification,Job Price
+H,Delivery,ESO22041240195,M220443635442,,,,2022-04-13 5:00,2022-04-16 23:00,447920192947,,Antonio  Lopez ,4 Netherhouse place,,,Glasgow,ZONE 13,G34 0DT,GB,447920192947,,Antonio  Lopez ,4 Netherhouse place,,,Glasgow,ZONE 13,G34 0DT,GB,,,447920192947,m_CEHACEGJ3EDGDFEEC2GAHICJH11@message.manomano.com,Elegant showers,driver1,5,Call Customer before scheduling job,1,0,1,1,5
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Line Type,JobRef,Barcode,Merch Group,Product Code,Product Description,Quantity,Weight (KG),Price,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D,M220443635442,TVS005-B,goods,TVS005-B,Furniture,1,25.6,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Line Type,Job Type,PO Number,Job Ref,Run Name,Run Date,Drop Sequence,Start Date,End Date,Delivery Instructions,Customer Account Number,Customer Name,Customer Address1,Customer Address2,Customer Address3,Customer City,Customer Region,Customer Postcode,Customer Country,Customer Tel. No.,Customer Email,Site Name,Site Address1,Site Address2,Site Address3,Site City,Site Region,Site Postcode,Site Country,Site Latitude,Site Longitude,Site Tel. No.,Site Email,Depot,Driver Login,Drop Time,Internal Job Notes,Customer Auto Email POD,Site Auto Email POD,Site Email Notification,Site SMS Notification,Job Price
+H,Delivery,ESO22041240020 ESO22041240218,73455 M220443652503,,,,2022-04-13 5:00,2022-04-16 23:00,07411259292,,Qiyang Zhang ,14 Moorburn Avenue,,,Giffnock,ZONE 13,G46 7AL,GB,07411259292,,Qiyang Zhang ,14 Moorburn Avenue,,,Giffnock,ZONE 13,G46 7AL,GB,,,07411259292,4f5c4a5c54b6df43e469@members.ebay.com,Elegant showers,driver1,5,Call Customer before scheduling job,1,0,1,1,5
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Line Type,JobRef,Barcode,Merch Group,Product Code,Product Description,Quantity,Weight (KG),Price,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D,73455 M220443652503,MC10-A,goods,MC10-A,Furniture,2,7.1,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D,73455 M220443652503,MC10-B,goods,MC10-B,Furniture,2,6.25,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D,73455 M220443652503,SRT1270,goods,SRT1270,Furniture,1,27.3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D,73455 M220443652503,W90,goods,W90,Furniture,1,0.41,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D,73455 M220443652503,WR30M,goods,WR30M,Furniture,1,11,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D,73455 M220443652503,WR70,goods,WR70,Furniture,1,29,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D,73455 M220443652503,WR76,goods,WR76,Furniture,1,32,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Line Type,Job Type,PO Number,Job Ref,Run Name,Run Date,Drop Sequence,Start Date,End Date,Delivery Instructions,Customer Account Number,Customer Name,Customer Address1,Customer Address2,Customer Address3,Customer City,Customer Region,Customer Postcode,Customer Country,Customer Tel. No.,Customer Email,Site Name,Site Address1,Site Address2,Site Address3,Site City,Site Region,Site Postcode,Site Country,Site Latitude,Site Longitude,Site Tel. No.,Site Email,Depot,Driver Login,Drop Time,Internal Job Notes,Customer Auto Email POD,Site Auto Email POD,Site Email Notification,Site SMS Notification,Job Price
+H,Delivery,EAM22041260093,026-4877730-8340354,,,,2022-04-13 5:00,2022-04-16 23:00,447973665013,,stephen donnelly ,12,LEDCAMEROCH CRESCENT BEARSDEN,,GLASGOW,ZONE 13,G61 4AD,GB,447973665013,,stephen donnelly ,12,LEDCAMEROCH CRESCENT BEARSDEN,,GLASGOW,ZONE 13,G61 4AD,GB,,,447973665013,ftpmt2hsnqxnvq2@marketplace.amazon.co.uk,Elegant showers,driver1,5,Call Customer before scheduling job,1,0,1,1,5
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Line Type,JobRef,Barcode,Merch Group,Product Code,Product Description,Quantity,Weight (KG),Price,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D,026-4877730-8340354,R5-30W,goods,R5-30W,Furniture,1,14.7,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D,026-4877730-8340354,R6-60WD,goods,R6-60WD,Furniture,4,21.4,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D,026-4877730-8340354,R6-1845WD,goods,R6-1845WD,Furniture,1,40.2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D,026-4877730-8340354,R6-16WD,goods,R6-16WD,Furniture,2,53.8,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Line Type,Job Type,PO Number,Job Ref,Run Name,Run Date,Drop Sequence,Start Date,End Date,Delivery Instructions,Customer Account Number,Customer Name,Customer Address1,Customer Address2,Customer Address3,Customer City,Customer Region,Customer Postcode,Customer Country,Customer Tel. No.,Customer Email,Site Name,Site Address1,Site Address2,Site Address3,Site City,Site Region,Site Postcode,Site Country,Site Latitude,Site Longitude,Site Tel. No.,Site Email,Depot,Driver Login,Drop Time,Internal Job Notes,Customer Auto Email POD,Site Auto Email POD,Site Email Notification,Site SMS Notification,Job Price
+H,Delivery,EAM22041260045,203-2657347-8785908,,,,2022-04-13 5:00,2022-04-16 23:00,07490054342,,Maria Caddle ,19 Keir Hardie Drive,Kilsyth,,GLASGOW,ZONE 13,G65 0LQ,GB,07490054342,,Maria Caddle ,19 Keir Hardie Drive,Kilsyth,,GLASGOW,ZONE 13,G65 0LQ,GB,,,07490054342,06mlky34x6jq2bh@marketplace.amazon.co.uk,Elegant showers,driver1,5,Call Customer before scheduling job,1,0,1,1,5
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Line Type,JobRef,Barcode,Merch Group,Product Code,Product Description,Quantity,Weight (KG),Price,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D,203-2657347-8785908,EK002W-A,goods,EK002W-A,Furniture,1,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D,203-2657347-8785908,EK002W-B,goods,EK002W-B,Furniture,1,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Line Type,Job Type,PO Number,Job Ref,Run Name,Run Date,Drop Sequence,Start Date,End Date,Delivery Instructions,Customer Account Number,Customer Name,Customer Address1,Customer Address2,Customer Address3,Customer City,Customer Region,Customer Postcode,Customer Country,Customer Tel. No.,Customer Email,Site Name,Site Address1,Site Address2,Site Address3,Site City,Site Region,Site Postcode,Site Country,Site Latitude,Site Longitude,Site Tel. No.,Site Email,Depot,Driver Login,Drop Time,Internal Job Notes,Customer Auto Email POD,Site Auto Email POD,Site Email Notification,Site SMS Notification,Job Price
+H,Delivery,ESO22041240288,155759,,,,2022-04-13 5:00,2022-04-16 23:00,07703769133,,Raymond Martin ,16 tweed st,gardenhall ,South Lanarkshire,East Kilbride,ZONE 13,G75 8PH,GB,07703769133,,Raymond Martin ,16 tweed st,gardenhall ,South Lanarkshire,East Kilbride,ZONE 13,G75 8PH,GB,,,07703769133,0846601a8fe0c6ac6c12@members.ebay.com,Elegant showers,driver1,5,Call Customer before scheduling job,1,0,1,1,5
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Line Type,JobRef,Barcode,Merch Group,Product Code,Product Description,Quantity,Weight (KG),Price,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D,155759,R7-48AD,goods,R7-48AD,Furniture,1,41,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Line Type,Job Type,PO Number,Job Ref,Run Name,Run Date,Drop Sequence,Start Date,End Date,Delivery Instructions,Customer Account Number,Customer Name,Customer Address1,Customer Address2,Customer Address3,Customer City,Customer Region,Customer Postcode,Customer Country,Customer Tel. No.,Customer Email,Site Name,Site Address1,Site Address2,Site Address3,Site City,Site Region,Site Postcode,Site Country,Site Latitude,Site Longitude,Site Tel. No.,Site Email,Depot,Driver Login,Drop Time,Internal Job Notes,Customer Auto Email POD,Site Auto Email POD,Site Email Notification,Site SMS Notification,Job Price
+H,Delivery,ESO22041240086,213927,,,,2022-04-13 5:00,2022-04-16 23:00,07867503557,,Debbie Matthew ,23 Derran Drive,Cardenden ,,Fife,ZONE 13,KY5 0JG,GB,07867503557,,Debbie Matthew ,23 Derran Drive,Cardenden ,,Fife,ZONE 13,KY5 0JG,GB,,,07867503557,24d7e8fd524f6e1ba098@members.ebay.com,Elegant showers,driver1,5,Call Customer before scheduling job,1,0,1,1,5
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Line Type,JobRef,Barcode,Merch Group,Product Code,Product Description,Quantity,Weight (KG),Price,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D,213927,SRT1280,goods,SRT1280,Furniture,1,32.5,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D,213927,W90,goods,W90,Furniture,1,0.41,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Line Type,Job Type,PO Number,Job Ref,Run Name,Run Date,Drop Sequence,Start Date,End Date,Delivery Instructions,Customer Account Number,Customer Name,Customer Address1,Customer Address2,Customer Address3,Customer City,Customer Region,Customer Postcode,Customer Country,Customer Tel. No.,Customer Email,Site Name,Site Address1,Site Address2,Site Address3,Site City,Site Region,Site Postcode,Site Country,Site Latitude,Site Longitude,Site Tel. No.,Site Email,Depot,Driver Login,Drop Time,Internal Job Notes,Customer Auto Email POD,Site Auto Email POD,Site Email Notification,Site SMS Notification,Job Price
+H,Delivery,ESO22041240092 ESO22041240093,213929 73471,,,,2022-04-13 5:00,2022-04-16 23:00,07729282211,,grant stewart ,26 fernbank avenue,,,windygates,ZONE 13,KY8 5FA,GB,07729282211,,grant stewart ,26 fernbank avenue,,,windygates,ZONE 13,KY8 5FA,GB,,,07729282211,4f6236c2a146cfdc5432@members.ebay.com,Elegant showers,driver1,5,Call Customer before scheduling job,1,0,1,1,5
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Line Type,JobRef,Barcode,Merch Group,Product Code,Product Description,Quantity,Weight (KG),Price,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D,213929 73471,PD90,goods,PD90,Furniture,1,24,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D,213929 73471,R7-48AD,goods,R7-48AD,Furniture,1,41,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Line Type,Job Type,PO Number,Job Ref,Run Name,Run Date,Drop Sequence,Start Date,End Date,Delivery Instructions,Customer Account Number,Customer Name,Customer Address1,Customer Address2,Customer Address3,Customer City,Customer Region,Customer Postcode,Customer Country,Customer Tel. No.,Customer Email,Site Name,Site Address1,Site Address2,Site Address3,Site City,Site Region,Site Postcode,Site Country,Site Latitude,Site Longitude,Site Tel. No.,Site Email,Depot,Driver Login,Drop Time,Internal Job Notes,Customer Auto Email POD,Site Auto Email POD,Site Email Notification,Site SMS Notification,Job Price
+H,Delivery,ESO22041240009,155751,,,,2022-04-13 5:00,2022-04-16 23:00,07985674588,,andrew Howell ,1 Findhorn Cresent,,,inverkip,ZONE 13,PA16 0FG,GB,07985674588,,andrew Howell ,1 Findhorn Cresent,,,inverkip,ZONE 13,PA16 0FG,GB,,,07985674588,4f4c7d5bf5922ed9b043@members.ebay.com,Elegant showers,driver1,5,Call Customer before scheduling job,1,0,1,1,5
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Line Type,JobRef,Barcode,Merch Group,Product Code,Product Description,Quantity,Weight (KG),Price,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D,155751,R7-1850WM,goods,R7-1850WM,Furniture,1,21,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Line Type,Job Type,PO Number,Job Ref,Run Name,Run Date,Drop Sequence,Start Date,End Date,Delivery Instructions,Customer Account Number,Customer Name,Customer Address1,Customer Address2,Customer Address3,Customer City,Customer Region,Customer Postcode,Customer Country,Customer Tel. No.,Customer Email,Site Name,Site Address1,Site Address2,Site Address3,Site City,Site Region,Site Postcode,Site Country,Site Latitude,Site Longitude,Site Tel. No.,Site Email,Depot,Driver Login,Drop Time,Internal Job Notes,Customer Auto Email POD,Site Auto Email POD,Site Email Notification,Site SMS Notification,Job Price
+H,Delivery,ESO22041240212,M220443645335,,,,2022-04-13 5:00,2022-04-16 23:00,447443006958,,Elizabeth Sebbane ,43 Oxford Road,,,Renfrew,ZONE 13,PA4 0SX,GB,447443006958,,Elizabeth Sebbane ,43 Oxford Road,,,Renfrew,ZONE 13,PA4 0SX,GB,,,447443006958,m_BADIBBAA3EDGEFDDF2GAHICJH11@message.manomano.com,Elegant showers,driver1,5,Call Customer before scheduling job,1,0,1,1,5
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Line Type,JobRef,Barcode,Merch Group,Product Code,Product Description,Quantity,Weight (KG),Price,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D,M220443645335,CR120,goods,CR120,Furniture,1,30,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D,M220443645335,CR76,goods,CR76,Furniture,1,18,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D,M220443645335,CRF,goods,CRF,Furniture,1,3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D,M220443645335,SRT1276,goods,SRT1276,Furniture,1,28.3,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+D,M220443645335,W90,goods,W90,Furniture,1,0.41,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
